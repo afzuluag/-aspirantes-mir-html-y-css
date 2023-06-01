@@ -1,0 +1,10 @@
+.box {
+ width: 100px;   
+ height: 100px;
+ background-color: burlywood;
+ box-shadow: 30px 15px 20px 1px #333;
+}
+
+.text{
+    text-shadow: 3px 2px 3px red;
+}
